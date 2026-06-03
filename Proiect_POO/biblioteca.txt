@@ -1,0 +1,116 @@
+CARTE;1;978-0441172719;Frank Herbert;Dune;1;1965
+TEHNICA;nimeni
+CARTE;3;978-0060882860;Gabriel Garcia Marquez;Toamna Patriarhului;1;1975
+CARTE;nimeni
+TEHNICA;5;978-0321563842;Bjarne Stroustrup;The C++ Programming Language;1;2013;C++
+CARTE;nimeni
+CARTE;7;978-9734654321;Marin Preda;Morometii;1;1955
+TEHNICA;nimeni
+CARTE;9;978-6065881234;George Calinescu;Enigma Otiliei;1;1938
+TEHNICA;nimeni
+CARTE;11;978-6065885678;Mihail Sadoveanu;Baltagul;0;1930
+TEHNICA;12;978-0134685991;Joshua Bloch;Effective Java;1;2018;Java
+CARTE;13;978-9735043210;Mircea Eliade;Maitreyi;1;1933
+TEHNICA;nimeni
+CARTE;15;978-9735049876;Mircea Eliade;La tiganci;1;1959
+TEHNICA;nimeni
+CARTE;17;978-6069991111;Ioan Slavici;Mara;0;1906
+TEHNICA;18;978-1593279288;Eric Matthes;Python Crash Course;1;2019;Python
+CARTE;19;978-6069992222;Liviu Rebreanu;Ion;1;1920
+TEHNICA;nimeni
+CARTE;21;978-6069993333;Liviu Rebreanu;Padurea spanzuratilor;1;1922
+TEHNICA;nimeni
+CARTE;23;978-0743273565;F. Scott Fitzgerald;Marele Gatsby;0;1925
+TEHNICA;24;978-0596517748;Douglas Crockford;JavaScript: The Good Parts;1;2008;JavaScript
+CARTE;25;978-0451524935;George Orwell;1984;1;1949
+TEHNICA;nimeni
+CARTE;27;978-0451526342;George Orwell;Ferma animalelor;1;1945
+TEHNICA;nimeni
+CARTE;29;978-0316769174;J.D. Salinger;De veghe in lanul de secara;0;1951
+TEHNICA;30;978-1098121952;Joseph Albahari;C# 10 in a Nutshell;1;2022;C#
+CARTE;31;978-0062316097;Yuval Noah Harari;Sapiens;1;2011
+TEHNICA;nimeni
+CARTE;33;978-0062464316;Yuval Noah Harari;Homo Deus;1;2015
+CARTE;nimeni
+CARTE;35;978-0261103344;J.R.R. Tolkien;Hobbitul;1;1937
+CARTE;nimeni
+CARTE;37;978-0743412278;Dan Brown;Ingeri si Demoni;0;2000
+CARTE;38;978-0062315007;Paulo Coelho;Alchimistul;1;1988
+CARTE;39;978-0141187761;Albert Camus;Strainul;1;1942
+CARTE;nimeni
+CARTE;41;978-0345391803;Douglas Adams;Ghidul autostopistului galactic;1;1979
+CARTE;nimeni
+CARTE;43;978-0451530943;Mark Twain;Aventurile lui Huckleberry Finn;0;1884
+CARTE;44;978-0451523204;Charles Dickens;Marile sperante;1;1861
+CARTE;45;978-0451526564;Charles Dickens;Oliver Twist;1;1838
+CARTE;nimeni
+CARTE;47;978-0374528379;Fyodor Dostoevsky;Fratii Karamazov;1;1880
+CARTE;nimeni
+CARTE;49;978-0143035008;Leo Tolstoy;Anna Karenina;0;1877
+CARTE;50;978-0452284234;Ray Bradbury;Fahrenheit 451;1;1953
+CARTE;51;978-0743247221;Stephen King;The Shining;1;1977
+CARTE;nimeni
+CARTE;53;978-0316740678;Michael Connelly;The Lincoln Lawyer;1;2005
+CARTE;nimeni
+CARTE;55;978-0441569595;Neuromancer;William Gibson;0;1984
+TEHNICA;56;978-0201633610;Erich Gamma;Design Patterns;1;1994;C++
+TEHNICA;57;978-0131103627;Brian Kernighan;The C Programming Language;1;1978;C
+TEHNICA;nimeni
+TEHNICA;59;978-0135957059;Robert C. Martin;The Clean Coder;1;2011;Agile
+CARTE;nimeni
+CARTE;1;978-0441172719;Frank Herbert;Dune;0;1965;mihai_popescu
+TEHNICA;2;978-1491903995;Scott Meyers;Effective Modern C++;1;2014;C++;nimeni
+CARTE;3;978-0060882860;Gabriel Garcia Marquez;Toamna Patriarhului;0;1975;elena_ionescu
+CARTE;4;978-0060883287;Gabriel Garcia Marquez;Un veac de singuratate;0;1967;mihai_popescu
+TEHNICA;5;978-0321563842;Bjarne Stroustrup;The C++ Programming Language;0;2013;C++;andrei_radu
+CARTE;6;978-9734612345;Marin Preda;Cel mai iubit dintre pamanteni;1;1980;nimeni
+CARTE;61;978-0141439518;Jane Austen;Mandrie si prejudecata;1;1813;nimeni
+CARTE;62;978-0141439556;Jane Austen;Ratiune si simtire;1;1811;nimeni
+CARTE;63;978-0451524232;Mary Shelley;Frankenstein;1;1818;nimeni
+CARTE;64;978-0451523658;Bram Stoker;Dracula;1;1897;nimeni
+CARTE;65;978-0142437247;Alexandre Dumas;Contele de Monte Cristo;1;1844;nimeni
+CARTE;66;978-0140449228;Alexandre Dumas;Cei trei muschetari;1;1844;nimeni
+CARTE;67;978-0451526533;Victor Hugo;Mizerabilii;1;1862;nimeni
+CARTE;68;978;Victor Hugo;Cocoasatul de la Notre-Dame;1;1831;nimeni
+CARTE;69;978-0140449174;Lev Tolstoi;Invierea;1;1899;nimeni
+CARTE;70;978-0140447934;Antoan Cehov;Livada de visini;1;1904;nimeni
+CARTE;71;978-0679720201;Franz Kafka;Metamorfoza;1;1915;nimeni
+CARTE;72;978-0805210408;Franz Kafka;Procesul;1;1925;nimeni
+CARTE;73;978-0345418104;Arthur C. Clarke;2001: O odisee spatiala;1;1968;nimeni
+CARTE;74;978-0575070530;Arthur C. Clarke;Intalnire cu Rama;1;1973;nimeni
+CARTE;75;978-0441756728;Philip K. Dick;Viseaza androizii oi electrice?;1;1968;nimeni
+CARTE;76;978-0547572482;George Orwell;Omagiu Cataloniei;1;1938;nimeni
+CARTE;77;978-0393356250;Michael Lewis;The Big Short;1;2010;nimeni
+CARTE;78;978-0141187129;John Steinbeck;Fructele maniei;1;1939;nimeni
+CARTE;79;978-0141185064;John Steinbeck;Oameni si soareci;1;1937;nimeni
+CARTE;80;978-0679601449;Ernest Hemingway;Batranul si marea;1;1952;nimeni
+CARTE;81;978-0684801223;Ernest Hemingway;Pentru cine bat clopotele;1;1940;nimeni
+CARTE;82;978-0060935467;Harper Lee;Sa ucizi o pasare cantatoare;1;1960;nimeni
+CARTE;83;978-0451528384;Herman Melville;Moby Dick;1;1851;nimeni
+CARTE;84;978-1451673319;Ray Bradbury;Cronici martiene;1;1950;nimeni
+CARTE;85;978-0743273541;Stephen King;Misery;1;1987;nimeni
+CARTE;86;978-0307743657;Stephen King;The Stand;1;1978;nimeni
+CARTE;87;978-0451167316;Stephen King;Mila 81;1;2011;nimeni
+CARTE;88;978-9735032210;Mircea Eliade;Romanul adolescentului miop;1;1928;nimeni
+CARTE;89;978-9734615432;Marin Preda;Delirul;1;1975;nimeni
+CARTE;90;978-6065882101;Mihail Sadoveanu;Fratii Jderi;1;1935;nimeni
+TEHNICA;91;978-0131101630;Brian Kernighan;The Practice of Programming;1;1999;C;nimeni
+TEHNICA;92;978-0201616415;Andrew Hunt;The Pragmatic Programmer;1;1999;General;nimeni
+TEHNICA;93;978-0132350884;Robert C. Martin;Clean Architecture;1;2017;Software Design;nimeni
+TEHNICA;94;978-0134494166;Robert C. Martin;Clean Agile;1;2019;Agile;nimeni
+TEHNICA;95;978-0321127426;Martin Fowler;Refactoring;1;1999;Java;nimeni
+TEHNICA;96;978-0134757599;Martin Fowler;Patterns of Enterprise Application Architecture;1;2002;Software Design;nimeni
+TEHNICA;97;978-0596007126;Kathy Sierra;Head First Design Patterns;1;2004;Java;nimeni
+TEHNICA;98;978-1449331818;Dusty Phillips;Python 3 Object-Oriented Programming;1;2010;Python;nimeni
+TEHNICA;99;978-1492051367;Marc Russinovich;Windows Internals;1;2021;C++;nimeni
+TEHNICA;100;978-0131177055;W. Richard Stevens;Advanced Programming in the UNIX Environment;1;2005;C;nimeni
+TEHNICA;101;978-0201433074;Richard Helm;Design Patterns CD;1;1998;C++;nimeni
+TEHNICA;102;978-0596009205;Brett McLaughlin;Head First Object-Oriented Analysis and Design;1;2006;Java;nimeni
+TEHNICA;103;978-1617294549;Jon Skeet;C# in Depth;1;2019;C#;nimeni
+TEHNICA;104;978-1492056300;Ian Griffiths;Programming C# 10;1;2021;C#;nimeni
+TEHNICA;105;978-1593276034;William Shotts;The Linux Command Line;1;2012;Bash;nimeni
+TEHNICA;106;978-1119455684;Jon Duckett;JavaScript and JQuery;1;2014;JavaScript;nimeni
+TEHNICA;107;978-1118871645;Jon Duckett;HTML and CSS;1;2011;Web;nimeni
+TEHNICA;108;978-1491950296;Alex Xu;System Design Interview;1;2020;Arhitectura;nimeni
+TEHNICA;109;978-1718500457;No Starch Press;The Secret Life of Programs;1;2019;Hardware;nimeni
+TEHNICA;110;978-0135166307;Alan Donovan;The Go Programming Language Vol 2;1;2020;Go;nimeni

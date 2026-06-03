@@ -1,0 +1,11 @@
+admin admin admin
+mihai_popescu 1234 client
+elena_ionescu 5678 client
+andrei_radu pass123 client
+maria_sandu mar123 client
+gabi_dumitru gabi99 client
+cristi_vlad cristi88 client
+laura_stan laura2026 client
+bogan_marin bogdan1 client
+anca_dinu anca_d client
+stefan_lupu stefan9 client

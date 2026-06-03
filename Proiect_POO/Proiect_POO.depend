@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1780484326 source:c:\users\leo\desktop\proiect poo\proiect_poo\clase.cpp
+	"clase.h"
+
+1780484300 c:\users\leo\desktop\proiect poo\proiect_poo\clase.h
+	<string>
+	<vector>
+	<fstream>
+
+1780484331 source:c:\users\leo\desktop\proiect poo\proiect_poo\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<algorithm>
+	<sstream>
+	<uxtheme.h>
+	"clase.h"
+
